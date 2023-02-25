@@ -1,7 +1,7 @@
 App_Key="e9c25421"
 App_Secret="6QjExxHWCYK8qsM0"
 App_bot_id="6250683356:AAEfpBia-twQDMONAxx0yMawOohn3PHo7CI"
-App_chat_id="873135048"
+App_chat_id="644091115"
 App_sms_content="hello I am salah bot"
 App_from_name="from sms bot"
 App_file_path="numbers.txt"
